@@ -3,7 +3,7 @@ def game_hash
     :home => {
     :team_name => "Brooklyn Nets",
     :colors => ["Black", "White"],
-    :players => [  
+    :players => [
       {
     :player_name =>
     :number =>
@@ -13,7 +13,7 @@ def game_hash
     :assists =>
     :steals =>
     :blocks =>
-    :slam_dunks => 
+    :slam_dunks =>
     }
   ]
   },
